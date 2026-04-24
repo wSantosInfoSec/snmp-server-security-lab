@@ -21,4 +21,7 @@ snmp-server community public ro
 copy running-config startup-config
 
 ## Como deve parecer ao configurar
-![comandos rodados no packet tracer](prints/config-router.png)
+
+![comandos rodados no packet tracer](../evidencias/prints/config-router.png)
+
+Sucess! ✅
